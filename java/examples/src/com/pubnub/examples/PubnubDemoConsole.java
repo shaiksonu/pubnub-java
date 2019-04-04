@@ -14,8 +14,8 @@ import static java.lang.System.out;
 public class PubnubDemoConsole {
 
     Pubnub pubnub;
-    String publish_key = "demo";
-    String subscribe_key = "demo";
+    String publish_key = "pub-c-203cbf5a-f807-4bcd-9960-50a5739b2c7e";
+    String subscribe_key = "sub-c-875a746e-504b-11e9-913f-e6c25ba7076d";
     String secret_key = "";
     String cipher_key = "";
     boolean SSL;
